@@ -8,7 +8,7 @@ export default {
   plugins: [],
   components: true,
   buildModules: ["@nuxtjs/tailwindcss", "@nuxtjs/color-mode"],
-  modules: ["@nuxtjs/axios", "@nuxtjs/pwa", "@nuxt/content", "@nuxt/image"],
+  modules: ["@nuxtjs/axios", "@nuxtjs/pwa", "@nuxt/content"],
   colorMode: {
     classSuffix: ""
   },

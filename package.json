@@ -19,7 +19,6 @@
     "timeago.js": "^4.0.2"
   },
   "devDependencies": {
-    "@nuxt/image": "^0.4.17",
     "@nuxtjs/color-mode": "^2.0.10",
     "@nuxtjs/tailwindcss": "^4.0.1",
     "postcss": "^8.2.8"

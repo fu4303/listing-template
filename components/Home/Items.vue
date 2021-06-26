@@ -15,12 +15,32 @@
           dark:border-gray-800
         "
       >
-        <nuxt-picture
-          :src="project.image"
-          fit="cover"
-          format="webp"
-          loading="lazy"
-        />
+        <div class="relative overflow-hidden" style="padding-bottom: 50%">
+          <div
+            class="
+              w-full
+              h-full
+              flex
+              items-center
+              justify-center
+              bg-gray-300
+              dark:bg-gray-700
+              animate-pulse
+              absolute
+              top-0
+            "
+          >
+            <p class="text-xs font-semibold uppercase text-gray-500">
+              Loading Image
+            </p>
+          </div>
+          <img
+            class="w-full h-full object-cover absolute top-0"
+            :src="project.image"
+            :alt="project.name"
+            loading="lazy"
+          />
+        </div>
         <div class="px-4 py-2">
           <p class="text-lg font-semibold">{{ project.name }}</p>
         </div>
