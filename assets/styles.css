@@ -1,0 +1,17 @@
+html,
+body {
+  @apply bg-white dark:bg-gray-900 text-gray-800 dark:text-white;
+  scroll-behavior: smooth;
+}
+
+.btn-primary {
+  @apply bg-gray-900 dark:bg-gray-200 text-white dark:text-gray-900 text-sm font-semibold rounded-lg px-6 py-3;
+}
+
+.btn-focus {
+  @apply focus:outline-none focus:ring focus:ring-gray-500;
+}
+
+.prose img {
+  @apply rounded-md border border-gray-100 dark:border-gray-800;
+}
