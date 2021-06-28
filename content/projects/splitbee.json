@@ -7,5 +7,20 @@
     "logo": "https://logo.clearbit.com/splitbee.io",
     "publisher": "Splitbee",
     "title": "Splitbee – Your all-in-one analytics and conversion platform",
-    "url": "https://splitbee.io"
+    "url": "https://splitbee.io",
+    "paid": false,
+    "stack": [
+        {
+            "name": "Next Js",
+            "slug": "nextdotjs"
+        },
+        {
+            "name": "Vercel",
+            "slug": "vercel"
+        },
+        {
+            "name": "Tailwind CSS",
+            "slug": "tailwindcss"
+        }
+    ]
 }

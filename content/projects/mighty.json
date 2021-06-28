@@ -7,5 +7,16 @@
     "logo": "https://assets.website-files.com/605cf560c1c73e1ee595cfc6/6077d5262cf4c11bdfeac785_webclip.png",
     "publisher": "white mighty logo",
     "title": "Mighty | Faster Google Chrome that uses 10x less memory",
-    "url": "https://mightyapp.com"
+    "url": "https://mightyapp.com",
+    "paid": true,
+    "stack": [
+        {
+            "name": "Webflow",
+            "slug": "webflow"
+        },
+        {
+            "name": "Chrome",
+            "slug": "googlechrome"
+        }
+    ]
 }

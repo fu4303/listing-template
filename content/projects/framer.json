@@ -7,5 +7,20 @@
     "logo": "https://logo.clearbit.com/framer.com",
     "publisher": "Framer",
     "title": "The prototyping tool for teams | Framer",
-    "url": "https://www.framer.com"
+    "url": "https://www.framer.com",
+    "paid": false,
+    "stack": [
+        {
+            "name": "React",
+            "slug": "react"
+        },
+        {
+            "name": "Next Js",
+            "slug": "nextdotjs"
+        },
+        {
+            "name": "Vercel",
+            "slug": "vercel"
+        }
+    ]
 }

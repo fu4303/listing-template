@@ -7,5 +7,24 @@
     "logo": "https://logo.clearbit.com/linear.app",
     "publisher": "Linear",
     "title": "Linear – The issue tracking tool you’ll enjoy using",
-    "url": "https://linear.app"
+    "url": "https://linear.app",
+    "paid": false,
+    "stack": [
+        {
+            "name": "Next Js",
+            "slug": "nextdotjs"
+        },
+        {
+            "name": "React",
+            "slug": "react"
+        },
+        {
+            "name": "Google Analytics",
+            "slug": "googleanalytics"
+        },
+        {
+            "name": "Styled Components",
+            "slug": "styledcomponents"
+        }
+    ]
 }

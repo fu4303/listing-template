@@ -7,5 +7,16 @@
     "logo": "https://logo.clearbit.com/sortedapp.com",
     "publisher": "Sorted",
     "title": "Sorted³ – Hyper-schedule your entire day in one place",
-    "url": "https://www.sortedapp.com/"
+    "url": "https://www.sortedapp.com/",
+    "paid": true,
+    "stack": [
+        {
+            "name": "Vue Js",
+            "slug": "vuedotjs"
+        },
+        {
+            "name": "Node Js",
+            "slug": "nodedotjs"
+        }
+    ]
 }

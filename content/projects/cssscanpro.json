@@ -7,5 +7,20 @@
     "logo": "https://logo.clearbit.com/cssscanpro.com",
     "publisher": "Guilherme Rizzo from CSS Scan",
     "title": "CSS Scan Pro - A re-imagined Devtools for web design",
-    "url": "https://cssscanpro.com/?ref=fb"
+    "url": "https://cssscanpro.com/?ref=fb",
+    "paid": true,
+    "stack": [
+        {
+            "name": "jQuery",
+            "slug": "jquery"
+        },
+        {
+            "name": "Netlify",
+            "slug": "netlify"
+        },
+        {
+            "name": "Font Awesome",
+            "slug": "fontawesome"
+        }
+    ]
 }

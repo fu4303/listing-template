@@ -7,5 +7,20 @@
     "logo": "https://logo.clearbit.com/gatsbyjs.com",
     "publisher": "Gatsby",
     "title": "Front End Framework With The Speed To Delight | Gatsby",
-    "url": "https://www.gatsbyjs.com"
+    "url": "https://www.gatsbyjs.com",
+    "paid": false,
+    "stack": [
+        {
+            "name": "Gatsby",
+            "slug": "gatsby"
+        },
+        {
+            "name": "React",
+            "slug": "react"
+        },
+        {
+            "name": "Google Analytics",
+            "slug": "googleanalytics"
+        }
+    ]
 }

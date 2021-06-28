@@ -4,5 +4,20 @@
     "image": "/projects/sleepiest.jpg",
     "logo": "https://www.sleepiest.com/favicon.svg",
     "title": "Sleepiest: The Best Sleep App",
-    "url": "https://www.sleepiest.com/"
+    "url": "https://www.sleepiest.com/",
+    "paid": false,
+    "stack": [
+        {
+            "name": "Vue Js",
+            "slug": "vuedotjs"
+        },
+        {
+            "name": "Svelte",
+            "slug": "svelte"
+        },
+        {
+            "name": "React",
+            "slug": "react"
+        }
+    ]
 }

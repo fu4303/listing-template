@@ -7,5 +7,16 @@
     "logo": "https://logo.clearbit.com/buymeacoffee.com",
     "publisher": "Buy Me a Coffee",
     "title": "Buy Me a Coffee",
-    "url": "http://www.buymeacoffee.com"
+    "url": "http://www.buymeacoffee.com",
+    "paid": false,
+    "stack": [
+        {
+            "name": "jQuery",
+            "slug": "jquery"
+        },
+        {
+            "name": "Stripe",
+            "slug": "stripe"
+        }
+    ]
 }

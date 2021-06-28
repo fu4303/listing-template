@@ -7,5 +7,20 @@
     "logo": "https://ko-fi.com/apple-touch-icon.png",
     "publisher": "Cloudflare",
     "title": "Ko-Fi",
-    "url": "https://ko-fi.com/"
+    "url": "https://ko-fi.com/",
+    "paid": false,
+    "stack": [
+        {
+            "name": "React",
+            "slug": "react"
+        },
+        {
+            "name": "Bootstrap",
+            "slug": "bootstrap"
+        },
+        {
+            "name": "Cloudflare",
+            "slug": "cloudflare"
+        }
+    ]
 }

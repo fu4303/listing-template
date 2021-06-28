@@ -7,5 +7,24 @@
     "logo": "https://logo.clearbit.com/lunchmoney.app",
     "publisher": "Lunch Money",
     "title": "Lunch Money | Delightfully simple personal finance & budgeting",
-    "url": "https://lunchmoney.app/"
+    "url": "https://lunchmoney.app/",
+    "paid": true,
+    "stack": [
+        {
+            "name": "Hotjar",
+            "slug": "hotjar"
+        },
+        {
+            "name": "Netlify",
+            "slug": "netlify"
+        },
+        {
+            "name": "Google Analytics",
+            "slug": "googleanalytics"
+        },
+        {
+            "name": "React",
+            "slug": "react"
+        }
+    ]
 }

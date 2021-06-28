@@ -7,5 +7,20 @@
     "logo": "https://logo.clearbit.com/pitch.com",
     "publisher": "Pitch",
     "title": "Collaborative presentation software for modern teams",
-    "url": "https://pitch.com"
+    "url": "https://pitch.com",
+    "paid": false,
+    "stack": [
+        {
+            "name": "AWS",
+            "slug": "amazonaws"
+        },
+        {
+            "name": "React",
+            "slug": "react"
+        },
+        {
+            "name": "Google Analytics",
+            "slug": "googleanalytics"
+        }
+    ]
 }

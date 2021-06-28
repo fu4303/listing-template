@@ -7,5 +7,24 @@
     "logo": "https://logo.clearbit.com/stripe.com",
     "publisher": "Stripe",
     "title": "Online payment processing for internet businesses – Stripe",
-    "url": "https://stripe.com/in"
+    "url": "https://stripe.com/in",
+    "paid": true,
+    "stack": [
+        {
+            "name": "Stripe",
+            "slug": "stripe"
+        },
+        {
+            "name": "React",
+            "slug": "react"
+        },
+        {
+            "name": "Node Js",
+            "slug": "nodedotjs"
+        },
+        {
+            "name": "Postgres SQL",
+            "slug": "postgresql"
+        }
+    ]
 }

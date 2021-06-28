@@ -7,5 +7,24 @@
     "logo": "https://d2rgmeg9ooiqj6.cloudfront.net/92c1378a-49dc-469a-a598-e73cf1cfd862/assets/favicon-96.png",
     "publisher": "reel",
     "title": "Reel – Turn podcast into video",
-    "url": "https://reel.so"
+    "url": "https://reel.so",
+    "paid": true,
+    "stack": [
+        {
+            "name": "Vue JS",
+            "slug": "vuedotjs"
+        },
+        {
+            "name": "AWS",
+            "slug": "amazonaws"
+        },
+        {
+            "name": "Puppeteer",
+            "slug": "puppeteer"
+        },
+        {
+            "name": "Svelte",
+            "slug": "svelte"
+        }
+    ]
 }

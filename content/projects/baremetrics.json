@@ -7,5 +7,20 @@
     "logo": "https://logo.clearbit.com/baremetrics.com",
     "publisher": "Baremetrics",
     "title": "Baremetrics: Subscription Analytics & Insights for Stripe, Braintree, Recurly & more!",
-    "url": "https://baremetrics.com"
+    "url": "https://baremetrics.com",
+    "paid": true,
+    "stack": [
+        {
+            "name": "Wordpress",
+            "slug": "wordpress"
+        },
+        {
+            "name": "Cloudflare",
+            "slug": "cloudflare"
+        },
+        {
+            "name": "My SQL",
+            "slug": "mysql"
+        }
+    ]
 }

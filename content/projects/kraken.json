@@ -7,5 +7,20 @@
     "logo": "https://logo.clearbit.com/kraken.com",
     "publisher": "Kraken",
     "title": "Bitcoin &amp; Cryptocurrency Exchange | Bitcoin Trading Platform | Kraken",
-    "url": "https://www.kraken.com/"
+    "url": "https://www.kraken.com/",
+    "paid": false,
+    "stack": [
+        {
+            "name": "Next Js",
+            "slug": "nextdotjs"
+        },
+        {
+            "name": "React",
+            "slug": "react"
+        },
+        {
+            "name": "Bitcoin",
+            "slug": "bitcoin"
+        }
+    ]
 }

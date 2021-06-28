@@ -7,5 +7,24 @@
     "logo": "https://logo.clearbit.com/useflipp.com",
     "publisher": "Flipp",
     "title": "Flipp – API for Image generation",
-    "url": "https://useflipp.com"
+    "url": "https://useflipp.com",
+    "paid": true,
+    "stack": [
+        {
+            "name": "Vue JS",
+            "slug": "vuedotjs"
+        },
+        {
+            "name": "AWS",
+            "slug": "amazonaws"
+        },
+        {
+            "name": "Puppeteer",
+            "slug": "puppeteer"
+        },
+        {
+            "name": "Svelte",
+            "slug": "svelte"
+        }
+    ]
 }

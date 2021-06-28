@@ -5,7 +5,7 @@ export default {
   head: headConfig,
   pwa: pwaConfig,
   css: ["~/assets/styles.css"],
-  plugins: [],
+  plugins: ["~/plugins/tooltip.js"],
   components: true,
   buildModules: ["@nuxtjs/tailwindcss", "@nuxtjs/color-mode"],
   modules: ["@nuxtjs/axios", "@nuxtjs/pwa", "@nuxt/content"],
